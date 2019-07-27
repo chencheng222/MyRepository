@@ -7,4 +7,5 @@ function a() {
 function b() {
 	var c = "ccc";
 	var d = "ddd";
+	var e = "eee";
 }
